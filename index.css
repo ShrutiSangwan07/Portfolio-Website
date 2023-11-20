@@ -443,6 +443,36 @@ section .title::after {
 .skills-content .right .html::before {
     width: 100%;
 }
+<<<<<<< HEAD
+=======
+.skills-content .right .css::before{
+    width: 100%;
+}
+.skills-content .right .js::before{
+    width: 50%;
+}
+.skills-content .right .php::before{
+    width: 50%;
+}
+.skills-content .right .mysql::before{
+    width: 100%;
+}
+.skills-content .right .shopify::before{
+    width: 40%;
+}
+.skills-content .right .java::before{
+    width: 50%;
+}
+.skills-content .right .C::before{
+    width: 50%;
+}.skills-content .right .Cpp::before{
+    width: 80%;
+}.skills-content .right .DSA::before{
+    width: 80%;
+}.skills-content .right .Reactjs::before{
+    width: 20%;
+}
+>>>>>>> de570081cfe359f6ff9f9f29a7e147dd371be9b4
 
 .skills-content .right .css::before {
     width: 100%;
