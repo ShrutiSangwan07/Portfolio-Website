@@ -443,8 +443,6 @@ section .title::after {
 .skills-content .right .html::before {
     width: 100%;
 }
-<<<<<<< HEAD
-=======
 .skills-content .right .css::before{
     width: 100%;
 }
@@ -472,8 +470,6 @@ section .title::after {
 }.skills-content .right .Reactjs::before{
     width: 20%;
 }
->>>>>>> de570081cfe359f6ff9f9f29a7e147dd371be9b4
-
 .skills-content .right .css::before {
     width: 100%;
 }
