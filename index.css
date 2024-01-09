@@ -447,7 +447,7 @@ section .title::after {
     width: 100%;
 }
 .skills-content .right .js::before{
-    width: 50%;
+    width: 80%;
 }
 .skills-content .right .php::before{
     width: 50%;
