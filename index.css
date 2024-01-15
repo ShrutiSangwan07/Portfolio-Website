@@ -447,7 +447,7 @@ section .title::after {
     width: 100%;
 }
 .skills-content .right .js::before{
-    width: 50%;
+    width: 80%;
 }
 .skills-content .right .php::before{
     width: 50%;
@@ -455,55 +455,26 @@ section .title::after {
 .skills-content .right .mysql::before{
     width: 100%;
 }
-.skills-content .right .shopify::before{
-    width: 40%;
-}
 .skills-content .right .java::before{
     width: 50%;
 }
 .skills-content .right .C::before{
     width: 50%;
-}.skills-content .right .Cpp::before{
+}
+.skills-content .right .Cpp::before{
     width: 80%;
-}.skills-content .right .DSA::before{
+}
+.skills-content .right .DSA::before{
     width: 80%;
-}.skills-content .right .Reactjs::before{
+}
+.skills-content .right .Reactjs::before{
     width: 20%;
 }
-.skills-content .right .css::before {
+.skills-content .right .Bootstrap::before {
     width: 100%;
 }
 
-.skills-content .right .js::before {
-    width: 50%;
-}
 
-.skills-content .right .php::before {
-    width: 50%;
-}
-
-.skills-content .right .mysql::before {
-    width: 100%;
-}
-.skills-content .right .java::before {
-    width: 50%;
-}
-
-.skills-content .right .C::before {
-    width: 50%;
-}
-
-.skills-content .right .Cpp::before {
-    width: 80%;
-}
-
-.skills-content .right .DSA::before {
-    width: 80%;
-}
-
-.skills-content .right .Reactjs::before {
-    width: 50%;
-}
 
 .owl-dots {
     text-align: center;
