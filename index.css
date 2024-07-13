@@ -447,7 +447,7 @@ section .title::after {
     width: 100%;
 }
 .skills-content .right .js::before{
-    width: 80%;
+    width: 100%;
 }
 .skills-content .right .php::before{
     width: 50%;
@@ -456,10 +456,10 @@ section .title::after {
     width: 100%;
 }
 .skills-content .right .java::before{
-    width: 50%;
+    width: 80%;
 }
 .skills-content .right .C::before{
-    width: 50%;
+    width: 80%;
 }
 .skills-content .right .Cpp::before{
     width: 80%;
@@ -468,7 +468,7 @@ section .title::after {
     width: 80%;
 }
 .skills-content .right .Reactjs::before{
-    width: 20%;
+    width: 80%;
 }
 .skills-content .right .Bootstrap::before {
     width: 100%;
